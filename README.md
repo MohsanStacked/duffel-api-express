@@ -14,6 +14,8 @@ For more info on Duffel API: https://duffel.com/docs
 
 ## Here is a quick demo of this working!
 
+https://github.com/user-attachments/assets/77d246a9-d10d-42c0-baf4-fb0674009099
+
 ## How to run
 
 1. Clone the repository
